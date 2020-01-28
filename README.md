@@ -115,7 +115,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 #### 简单难度
 
-- [0020.Valid Parentheses](./problems/20.validParentheses.md)
+- [0020.有效的括号](./problems/20.validParentheses.md)https://leetcode-cn.com/problems/valid-parentheses
 - [0026.remove-duplicates-from-sorted-array](./problems/26.remove-duplicates-from-sorted-array.md)
 - [0053.maximum-sum-subarray](./problems/53.maximum-sum-subarray-cn.md) 🆕
 - [0088.merge-sorted-array](./problems/88.merge-sorted-array.md)
